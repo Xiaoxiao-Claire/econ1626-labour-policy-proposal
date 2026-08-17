@@ -1,2 +1,2 @@
 # econ1626-labour-policy-proposal
-Policy of notes for econ1626
+A collection of short notes on AI public policy
